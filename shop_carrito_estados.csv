@@ -1,0 +1,17 @@
+"id";"estado";"interno"
+1;"Nuevo";1
+2;"Aprobado";1
+3;"Rechazado";1
+4;"Facturado";1
+5;"Eliminado";1
+6;"Preparado";1
+7;"Enviado";1
+8;"Pendiente de preparar";1
+27;"Entregado";0
+28;"Devuelto";0
+30;"Anulado";0
+31;"En transito";0
+32;"Rendido";1
+33;"En WH del courier";0
+34;"Pendiente Pago";1
+36;"Rechazado Pre OFTIME";1

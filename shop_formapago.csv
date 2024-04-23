@@ -1,0 +1,13 @@
+"id";"formapago";"descripcion";"estado";"tipo";"cuotas";"image";"metodo";"id_gc";"n_estable_gc";"n_estable_pn";"asiento_tango";"recuperable";"limitar_digitos";"pago_diferido"
+1;"Contra Reembolso";"";1;2;",1,";"cod.jpg";1;0;0.0;0.0;0;1;0;0
+2;"Visa";"";1;1;",1,3,6,9,";"visa.jpg";2;1;22942809.0;3394582.0;3;0;4;0
+3;"American Express";"";1;1;",1,3,6,9,";"amex.jpg";2;2;9901230870.0;9901230870.0;5;0;4;0
+4;"Mastercard";"";1;1;",1,3,6,9,";"mastercard.jpg";2;3;18109885.0;13491930.0;6;0;4;0
+5;"Diners";"";1;1;",1,3,6,9";"";2;132;1.0;1.0;34;1;4;0
+6;"Tarjeta COD";"";0;2;",1,";"";1;0;0.0;0.0;0;0;0;0
+7;"Webpay.cl";"";1;1;",1,";"";2;0;0.0;0.0;12;0;4;0
+8;"Magna";"Tarjeta Magna";1;1;"6,9,12";"";2;0;0.0;0.0;0;0;4;0
+9;"Redcompra";"Tarjeta de D&#65533;bito";0;1;"1";"";2;0;0.0;0.0;0;0;0;0
+10;"Direct Debit";"Debito directo cuenta bancaria para Greenpeace.";0;1;"";"";1;0;0.0;0.0;0;0;0;0
+11;"Telephone Bill (Movistar)";"Debito en cuenta Movistar";1;1;"";"";1;0;0.0;0.0;0;0;0;0
+12;"Pago Diferido";"";1;2;"1";"cod.jpg";1;0;0.0;0.0;0;0;0;1
